@@ -1,0 +1,6 @@
+2019-02-01 13:22:00 [com.xxl.job.core.thread.JobThread#run]-[124]-[Thread-46] <br>----------- xxl-job job execute start -----------<br>----------- Param:
+2019-02-01 13:22:00 [com.xxl.job.executor.service.jobhandler.ShardingJobHandler#execute]-[24]-[Thread-46] 分片参数：当前分片序号 = 1, 总分片数 = 2
+2019-02-01 13:22:00 [com.xxl.job.executor.service.jobhandler.ShardingJobHandler#execute]-[31]-[Thread-46] 第 0 片, 忽略
+2019-02-01 13:22:00 [com.xxl.job.executor.service.jobhandler.ShardingJobHandler#execute]-[29]-[Thread-46] 第 1 片, 命中分片开始处理
+2019-02-01 13:22:00 [com.xxl.job.core.thread.JobThread#run]-[158]-[Thread-46] <br>----------- xxl-job job execute end(finish) -----------<br>----------- ReturnT:ReturnT [code=200, msg=null, content=null]
+2019-02-01 13:22:00 [com.xxl.job.core.thread.TriggerCallbackThread#callbackLog]-[185]-[Thread-16] <br>----------- xxl-job job callback finish.
